@@ -1,0 +1,10 @@
+11/05/2021 02:02:52 AM root CRITICAL: This message should go to the log file
+11/05/2021 02:02:52 AM root ERROR: If no errors occur
+11/05/2021 02:02:52 AM root Level 35: Work is in process
+11/05/2021 02:02:52 AM root WARNING: Please check your correctness
+11/05/2021 02:02:52 AM Toon DEBUG: Hello Toon!
+11/05/2021 02:02:52 AM Toon INFO: Program is running
+11/05/2021 02:02:52 AM Toon CRITICAL: This message should go to the log file
+11/05/2021 02:02:52 AM Toon ERROR: If no errors occur
+11/05/2021 02:02:52 AM Toon Level 35: Work is in process
+11/05/2021 02:02:52 AM Toon WARNING: Please check your correctness
